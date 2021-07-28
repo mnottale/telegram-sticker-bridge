@@ -37,9 +37,9 @@ SOMETHING is the sticker real id name.
 Routes
 ------
 
-/STICKERSET/INDEX : Reply with a png image of sticker INDEX of STICKERSET
-/STICKERSET/INDEX/2 : Reply with downsized sticker by a factor 2.
-/STICKERSET : Reply with a png image of the whole stickerset. Can take some time on first call.
-/STICKERSET/map : Same as above, but each image of the set is clickable and will redirect to the clicked sticker
-/listall : Clickable list of all complete stickersets cached.
-/showall : Clickable images of all stickerset cached.
+- /STICKERSET/INDEX : Reply with a png image of sticker INDEX of STICKERSET
+- /STICKERSET/INDEX/2 : Reply with downsized sticker by a factor 2.
+- /STICKERSET : Reply with a png image of the whole stickerset. Can take some time on first call.
+- /STICKERSET/map : Same as above, but each image of the set is clickable and will redirect to the clicked sticker
+- /listall : Clickable list of all complete stickersets cached.
+- /showall : Clickable images of all stickerset cached.
